@@ -54,7 +54,9 @@ where paymentid = 19
 
 ~~~
 
+### My Analysis
 
+Just click and drag and drop your display chart here
 
 
 
